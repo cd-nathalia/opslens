@@ -2,6 +2,8 @@
 
 OpsLens is an infrastructure-analysis tool that turns configuration files and system logs into a concise operational report. Paste or upload supported text files in the React interface and receive an AI-assisted assessment of the stack, including security findings, operational risks, and prioritized next steps.
 
+https://github.com/user-attachments/assets/679543d8-6a76-4213-9bef-e470368fbe72
+
 ## Features
 
 - Accepts pasted text and common infrastructure files, including Docker Compose, Nginx, SSH configuration, system logs, and environment files.
